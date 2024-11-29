@@ -1,0 +1,9 @@
+pip install numpy
+pip install pandas
+pip install flask
+pip install scikit-learn
+pip install xgboost
+
+python==3.8
+
+username: admin, password: admin
